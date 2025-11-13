@@ -78,7 +78,7 @@ user:
         svg: "ri:github-line"
       - href: "https://space.bilibili.com/194116448"
         ariaLabel: BiliBili
-        title: 这里暂时没有什么好看的
+        title: BiliBili
         svg: "ri:bilibili-line"
       - href: "https://x.com/nekyyuuu"
         ariaLabel: X(twitter)
@@ -96,5 +96,5 @@ user:
         svg: "ri:github-line"
       - href: "https://space.bilibili.com/194116448"
         ariaLabel: BiliBili
-        title: 这里暂时没有什么好看的
+        title: BiliBili
         svg: "ri:bilibili-line"
