@@ -7,7 +7,19 @@ import { SITE_THEME } from "./src/config";
 export default {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: [
+          'Roboto',          // 英文字体
+          'Noto Sans SC',    // 中文字体
+          'Arial', 'sans-serif', // 备用字体
+        ],
+        serif: [
+          'Merriweather',    // 英文衬线字体
+          'Georgia', 'serif', // 备用衬线字体
+        ],
+      },
+    },
   },
   safelist: [
     "alert",
