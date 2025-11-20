@@ -6,10 +6,10 @@ image: /image/PIC_AESDK.jpg
 categories:
   - dev
 tags:
-  - blog
   - dev
   - MSVC
   - AE
+  - AE插件
   - vscode
 ---
 
